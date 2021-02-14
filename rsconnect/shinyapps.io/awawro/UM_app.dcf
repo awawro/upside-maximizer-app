@@ -1,0 +1,12 @@
+name: UM_app
+title: UM_app
+username:
+account: awawro
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3633580
+bundleId: 4219555
+url: https://awawro.shinyapps.io/UM_app/
+when: 1613254315.94781
+asMultiple: FALSE
+asStatic: FALSE
